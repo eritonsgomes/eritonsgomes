@@ -19,11 +19,6 @@ Construct Software Backend is my favorite task, because it depends on security, 
 
 - :link: How to reach me [linkedin.com/in/eritonsg](https://www.linkedin.com/in/eritonsg/)
 
-### Connect with me:
-
-<a href="https://x.com/eritonsg" target="blank"><img class="float-left" src="https://simpleicons.org/icons/x.svg" alt="eritonsg" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/eritonsg" target="blank"><img class="float-left" src="https://simpleicons.org/icons/linkedin.svg" alt="eritonsg" height="30" width="40"/></a>
-
 ### Systems, Languages and Tools:
 
 <a href="https://www.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/></a>
@@ -57,9 +52,7 @@ Construct Software Backend is my favorite task, because it depends on security, 
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 
+### Connect with me:
 
-
-### GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=eritonsgomes&show_icons=true&theme=vue-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eritonsgomes&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+<a href="https://x.com/eritonsg" target="blank"><img src="https://simpleicons.org/icons/x.svg" alt="eritonsg" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/eritonsg" target="blank"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="eritonsg" height="30" width="40"/></a>
