@@ -1,4 +1,4 @@
-![](https://iili.io/HQfCCG4.jpg)
+![](https://iili.io/CAJdrYu.jpg)
 
 ### Welcome to my GitHub Profile
 
