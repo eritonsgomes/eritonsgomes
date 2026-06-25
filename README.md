@@ -11,7 +11,7 @@ Construct Software Backend is my favorite task, because it depends on security, 
 
 - 🌱 I’m currently learning **new programming languages and new frameworks** to create up to date projects.
 
-- 👨‍💻 All of my projects are available at [github.com/eritonsg](github.com/eritonsgomes)
+- 👨‍💻 All of my projects are available at [github.com/eritonsgomes](github.com/eritonsgomes)
 
 - 💬 Ask me about **software development and programming languages** like Java or JavaScript.
 
